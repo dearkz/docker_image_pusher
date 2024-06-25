@@ -1,4 +1,4 @@
 grafana/loki:3.0.0
 grafana/promtail:3.0.0
-jenkinsci/blueocean
 maven:3.8.5-openjdk-17
+jenkins/jenkins:lts-jdk17
