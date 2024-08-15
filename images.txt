@@ -3,3 +3,4 @@ grafana/promtail:3.0.0
 grafana/grafana
 seataio/seata-server:2.0.0.jre17
 docker.io/library/node:alpine
+busybox:1.35.0-uclibc
