@@ -4,3 +4,4 @@ grafana/grafana
 seataio/seata-server:2.0.0.jre17
 alpine:latest
 ubuntu:latest
+eclipse-temurin:17-jre-alpine
