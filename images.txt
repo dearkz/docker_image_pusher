@@ -7,3 +7,4 @@ ubuntu:latest
 eclipse-temurin:17-jre-alpine
 golang:latest
 mongo:latest
+python:latest
