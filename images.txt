@@ -8,3 +8,4 @@ eclipse-temurin:17-jre-alpine
 golang:latest
 mongo:latest
 python:latest
+elasticsearch:8.17.4
