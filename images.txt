@@ -10,3 +10,4 @@ mongo:latest
 python:latest
 elasticsearch:8.17.4
 redis:latest
+apache/kafka:latest
