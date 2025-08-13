@@ -1,13 +1,1 @@
-grafana/loki:3.0.0
-grafana/promtail:3.0.0
-grafana/grafana
-seataio/seata-server:2.0.0.jre17
-alpine:latest
-ubuntu:latest
 eclipse-temurin:17-jre-alpine
-golang:latest
-mongo:latest
-python:latest
-elasticsearch:8.17.4
-redis:latest
-apache/kafka:latest
